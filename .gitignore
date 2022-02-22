@@ -1,2 +1,4 @@
 env.txt
 website_content.txt
+venv
+__pycache__

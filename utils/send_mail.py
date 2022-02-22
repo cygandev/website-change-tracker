@@ -1,7 +1,6 @@
 import smtplib
 from email.message import EmailMessage
 import ssl
-import os
 
 
 def send_mail(
