@@ -1,0 +1,1287 @@
+
+<!DOCTYPE html>
+<html lang="de" dir="ltr" prefix="og: https://ogp.me/ns#">
+  <head>
+    <meta charset="utf-8" />
+<script>  (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','');</script>
+<script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', "381990496439426");fbq('track', "PageView");fbq("track", "ViewContent", {"content_name":"move2023","content_type":"basic_page","content_ids":["660"]});</script>
+<link rel="canonical" href="https://www.binelli-group.ch/de/move2023" />
+<link rel="shortlink" href="https://binelli-group.ch/move2023" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<link rel="shortcut icon" href="/themes/custom/bmw_base/favicon.png" type="image/png" />
+<link rel="alternate" hreflang="de" href="https://www.binelli-group.ch/de/move2023" />
+<link rel="revision" href="https://www.binelli-group.ch/de/move2023" />
+
+    <title>move2023 | Binelli Group</title>
+    <link rel="stylesheet" media="all" href="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/css/css_ny54966XL8axgfLOg-Ol0e9Ex4g5xc7REm3RQJ-XtWU.css" />
+<link rel="stylesheet" media="all" href="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/css/css_kJu-IFdH6-aXy6iAupdHxcSqq3hWiW8XR4tVvvCWY28.css" />
+
+    <script src="/themes/custom/bmw_base/dist/lib/modernizr.custom.js?v=3.3.1"></script>
+<script src="https://use.fontawesome.com/releases/v5.0.1/js/all.js" defer crossorigin="anonymous"></script>
+<script src="https://use.fontawesome.com/releases/v5.0.1/js/v4-shims.js" defer crossorigin="anonymous"></script>
+
+
+    <script src="//assets.adobedtm.com/7e530431ebc6040a493335ce44e66648adfeab7a/satelliteLib-fac0474288cda6c82061c7465cacb5e739c36794.js"></script>
+    <script>
+      digitalData = {};
+      digitalData.page = {};
+              digitalData.page.pageInfo = {};
+                              digitalData.page.pageInfo.envWork = "prod";
+                                        digitalData.page.pageInfo.pageTitle = "move2023 | Binelli Group";
+                                        digitalData.page.pageInfo.pageInstanceId = "/node/660";
+                                        digitalData.page.pageInfo.pageName = "move2023";
+                                        digitalData.page.pageInfo.destinationURL = "https://www.binelli-group.ch/de/move2023";
+                                        digitalData.page.pageInfo.referringURL = "http://www.binelli-group.ch/de/move2023";
+                                                    digitalData.page.pageInfo.timeStamp = 1644959373;
+                                        digitalData.page.pageInfo.language = "de-CH";
+                                digitalData.page.attributes = {};
+                                          digitalData.page.attributes.consent = 1;
+                                        digitalData.page.attributes.dealerID = "";
+                                        digitalData.page.attributes.template = "basicpage";
+                        
+      var sysEnv = 'desktop';
+      if (window.innerWidth <= 520) {
+        sysEnv = 'mobile';
+      } else if (window.innerWidth <= 980) {
+        sysEnv = 'tablet';
+      }
+      digitalData['page']['pageInfo']['sysEnv'] = sysEnv;
+    </script>
+        
+  </head>
+  <body class="site-landingpage path-node page-node-type-basic-page">
+        <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=" height="0" width="0"></iframe></noscript><noscript><img height="1" width="1" src="https://www.facebook.com/tr?id=381990496439426&amp;ev=PageView&amp;noscript=1" /></noscript>
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="layout-container">
+
+  <div class="content-header clearfix">
+    
+  </div>
+
+      <header id="header" role="banner" style="background-color: #000000">
+        <div class="region region-header">
+    <div id="block-bmw-landingpage-sitelogo" class="block block-bmw-dealer-dashboard block-site-logo-block">
+  
+    
+      <div class="block block-">
+  
+    
+        <a href="/de" title="Home" target="_self" rel="home" class="site-logo">
+      <img src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/site_logo/public/site-logo/Binelli-group_logo_general_plus_weiss_1.png" alt="" class="image-style-site-logo" />
+
+
+    </a>
+        <a href="/de" title="Home" target="_self" rel="home" class="site-logo-active">
+      <img src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/site_logo/public/site-logo/Binelli-group_logo_general_plus_weiss_1.png" alt="" class="image-style-site-logo" />
+
+
+    </a>
+  </div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-header-mainnav-menu" id="block-header-mainnav" class="block block-menu navigation menu--main">
+  
+        
+
+  <ul class="menu menu-level-0">
+      
+    <li class="menu-item">
+      <a href="/de/fahrzeugauswahl" data-drupal-link-system-path="node/23">Fahrzeugauswahl</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="/de/firmenkunden" title="Firmenkunden" data-drupal-link-system-path="node/18">Firmenkunden</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="https://binelli-group.ch/de/e-mobility">E-Mobilität</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="https://binelli-group.ch/de/jobs">Jobs</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="/de/news" data-drupal-link-system-path="node/19">News</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="/de/carrosserie" title="Carrosserie" data-drupal-link-system-path="node/669">Carrosserie</a>
+                    
+                
+    
+  
+
+
+          </li>
+      
+    <li class="menu-item">
+      <a href="/de/anna-maier" data-drupal-link-system-path="node/680">5 Sterne &amp; Anna Maier</a>
+                    
+                
+    
+  
+
+
+          </li>
+    </ul>
+
+
+  </nav>
+
+  </div>
+
+    </header>
+  
+  
+
+  
+
+  
+
+    <div class="region region-highlighted">
+    <div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+
+  
+
+  <main role="main">
+    <a id="main-content" tabindex="-1"></a>
+    <div class="layout-content">
+        <div class="region region-content">
+    <div id="block-bmw-landingpage-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title"><span class="field field--name-title field--type-string field--label-hidden">move2023</span>
+</h1>
+
+
+  </div>
+<div id="block-stickynotes-2" class="block block-bmw-dealer-dashboard block-sticky-notes">
+  
+    
+      
+  </div>
+  <div class="layout layout--onecol">
+    <div  class="layout__region layout__region--content">
+      
+            <div class="field field--name-field-p-header field--type-entity-reference-revisions field--label-hidden field__item">
+  <div  class="paragraph paragraph-media-slider-base paragraph--type--media-slider paragraph--view-mode--default">
+
+          
+      <div class="field field--name-field-p-contents field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">  <div class="gray-shadow-overlay paragraph paragraph--type--media-slide paragraph--view-mode--landingpage">
+          
+<div  class="image-text-wrap">
+      
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><a href="https://binelli-group.ch/de/move2023/#wohnung"><article class="media media--type-image media--view-mode-landingpage-media-slider">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source media="(min-width: 768px)" type="image/jpeg" data-srcset="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/media_slider_1300px_540px/public/2021-07/bin-move23-header.jpg?h=8a6a9c23 1x"/>
+              <source media="(min-width: 520px)" type="image/jpeg" data-srcset="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/media_slider_mob_768x400/public/2021-07/bin-move23-header.jpg?h=8a6a9c23 1x"/>
+              <source type="image/jpeg" data-srcset="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/media_slider_mob_middle_480x400/public/2021-07/bin-move23-header.jpg?h=8a6a9c23 1x"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/media_slider_1300px_540px/public/2021-07/bin-move23-header.jpg?h=8a6a9c23" alt="Binelli-Move23" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</a>
+</div>
+      
+<div  class="slider-text">
+      
+            <div class="white field field--name-field-text-plain field--type-string field--label-hidden field__item" style="color:#FFFFFF;">ERÖFFNUNG 2023.</div>
+      
+            <div style="color:#FFFFFF;" class="field field--name-field-sub-headline field--type-string field--label-hidden field__item">DAS MODERNSTE AUTOHAUS DER SCHWEIZ UND ATTRAKTIVE, PREISWERTE 1.5- 4.5 STADTWOHNUNGEN.</div>
+      
+  </div>
+
+  </div>
+
+<div  class="text-after-slider">
+      
+            <div class="clearfix text-formatted field field--name-field-text-left field--type-text-long field--label-hidden field__item"><p>Quelle: Baumschlager Eberle Architekten | CYAAN Architektur Visualisierung</p>
+</div>
+      
+  </div>
+
+      </div>
+</div>
+          </div>
+  
+    
+  </div>
+</div>
+      
+      <div class="field field--name-field-p-contents field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="bg-default field__item">
+<div  class="text">
+          
+                          <h2  >
+      WIR BAUEN UM FÜR SIE.</h2>
+      
+  
+
+    
+                  <h3>Binelli Group investiert in eine erfolgreiche Zukunft und baut das modernste Autohaus der Schweiz. An der Badenerstrasse 527, beim aktuellen Standort der Binelli Zürich AG, entsteht ein neues Gebäude. 2023 erwartet Sie ein einzigartiges Kundenerlebnis mit Herzlichkeit, Komfort und Premium-Gefühl. Zudem bieten wir hier zahlreiche attraktive, preiswerte 1.5- bis 4.5-Zimmer-Wohnungen an bester, urbaner Lage an.</h3>
+
+      
+  
+
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="text">
+          
+                          <h2  >
+      VORÜBERGEHENDER STANDORT.</h2>
+      
+  
+
+    
+                  <h3>Seit 1. März 2020 heissen wir Sie an der <strong>Freihofstrasse 25</strong> willkommen. Gleich 300m weiter von Binelli Zürich AG finden Sie vorübergehend die Werkstatt und einen grossen MINI Showroom. Dort sind genügend Parkplätze vorhanden. Ihre gewohnten Ansprechpartner erwarten Sie zu den üblichen Öffnungszeiten und mit 5-Sterne-Service. Für unsere Kunden ändert sich daher während der Bauphase nichts. Die neusten BMW Modelle sind weiterhin im Showroom an der Badenerstrasse 549 ausgestellt.</h3>
+
+      
+  
+
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">  <div class="paragraph paragraph--type--iframe paragraph--view-mode--default">
+          
+            <div class="field field--name-field-iframe field--type-iframe field--label-hidden field__item"><div class="">
+    <style type="text/css">iframe#iframe-field_iframe-1339 {/*frameborder*/ border-width:0;}</style>
+  <iframe  width="900" height="400" name="iframe-field_iframe-1339" id="iframe-field_iframe-1339" title="Provisorium" allow="" src="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d2701.4790323310403%212d8.500461001424606%213d47.38308561128209%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x47900a347869120f%3A0x5ed54d855a93fad1%212sFreihofstrasse%2025%2C%208048%20Z%C3%BCrich%215e0%213m2%211sde%212sch%214v1574782628175%215m2%211sde%212sch">
+    Your browser does not support iframes, but you can visit <a href="https://www.google.com/maps/embed?pb=%211m18%211m12%211m3%211d2701.4790323310403%212d8.500461001424606%213d47.38308561128209%212m3%211f0%212f0%213f0%213m2%211i1024%212i768%214f13.1%213m3%211m2%211s0x47900a347869120f%3A0x5ed54d855a93fad1%212sFreihofstrasse%2025%2C%208048%20Z%C3%BCrich%215e0%213m2%211sde%212sch%214v1574782628175%215m2%211sde%212sch"></a>
+  </iframe>
+</div>
+</div>
+      
+      </div>
+</div>
+              <div class="bg-default field__item">
+<div  class="text">
+          
+                          <h2  >
+      DAS MODERNSTE AUTOHAUS DER SCHWEIZ.</h2>
+      
+  
+
+    
+                  <h3>Ganz im Sinne der Premium-Marken BMW und MINI begrüssen wir Sie 2023 in eindrücklicher Atmosphäre. Das neue Autohaus entspricht dem höchsten Standard und die moderne Einrichtung bietet Ihnen ein einmaliges Kundenerlebnis. Verweilen Sie in der Lounge, bestaunen Sie die neusten Modelle im besten Licht und freuen Sie sich schon heute auf Ihren nächsten Besuch im Autohaus Ihres Vertrauens.</h3>
+<p> </p>
+<h3>Selbstverständlich halten wir Sie laufend auf dem neusten Stand. Folgen Sie uns auch auf Social Media.</h3>
+
+      
+  
+
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-1" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-move-gebaeude.jpg?h=1116cd87" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-2" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-move-buero.jpg?h=e309cdcb" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-3" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-move-garage.jpg?h=e309cdcb" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-4" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-move-innenhof.jpg?h=1116cd87" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="field__item">  <div class="visually-hidden paragraph paragraph--type--anchor-link paragraph--view-mode--default">
+          
+<div  id="wohnung">
+      
+  <div class="field field--name-field-p-anchor-link field--type-string field--label-visually_hidden">
+    <div class="field__label visually-hidden">Anchor link</div>
+              <div class="field__item">wohnung</div>
+          </div>
+
+  </div>
+
+      </div>
+</div>
+              <div class="bg-default field__item">
+<div  class="text">
+          
+                          <h2  >
+      WOHNUNG GESUCHT? JETZT INTERESSE ANMELDEN.</h2>
+      
+  
+
+    
+                  <h3>An der Badenerstrasse 527 entstehen zahlreiche höchst attraktive und preiswerte 1.5- bis 4.5-Zimmer-Wohnungen an bester Stadtlage. Sind Sie interessiert? Dann füllen Sie das nachfolgende Kontaktformular aus.</h3>
+
+      
+  
+
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">  <div class="paragraph paragraph--type--webform paragraph--view-mode--default">
+          
+            <div class="field field--name-field-webform field--type-webform field--label-hidden field__item"><form class="webform-submission-form webform-submission-add-form webform-submission-move23-form webform-submission-move23-add-form webform-submission-move23-paragraph-1362-form webform-submission-move23-paragraph-1362-add-form js-webform-details-toggle webform-details-toggle" data-recaptcha-id="webform_submission_move23_paragraph_1362_add_form" data-drupal-selector="webform-submission-move23-paragraph-1362-add-form" action="/de/move2023" method="post" id="webform-submission-move23-paragraph-1362-add-form" accept-charset="UTF-8">
+  
+  <fieldset data-drupal-selector="edit-anrede" id="edit-anrede--wrapper" class="checkboxes--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-checkboxes webform-type-checkboxes js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend js-form-required form-required">Anrede</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-anrede" class="js-webform-checkboxes webform-options-display-two-columns form-checkboxes">
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-anrede-frau form-item-anrede-frau">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="checkbox-wrapper">
+  <input data-drupal-selector="edit-anrede-frau" type="checkbox" id="edit-anrede-frau" name="anrede[Frau]" value="Frau" class="form-checkbox" /> <i></i>
+</span>
+
+        <label for="edit-anrede-frau" class="option">Frau</label>
+      </div>
+          </div>
+
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-anrede-herr form-item-anrede-herr">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="checkbox-wrapper">
+  <input data-drupal-selector="edit-anrede-herr" type="checkbox" id="edit-anrede-herr" name="anrede[Herr]" value="Herr" class="form-checkbox" /> <i></i>
+</span>
+
+        <label for="edit-anrede-herr" class="option">Herr</label>
+      </div>
+          </div>
+</div>
+
+          </div>
+</fieldset>
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+            <label for="edit-name" class="js-form-required form-required">Name</label>
+                <input data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="60" maxlength="255" class="form-text required" required="required" aria-required="true" />
+
+          </div>
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-vorname form-item-vorname">
+            <label for="edit-vorname" class="js-form-required form-required">Vorname</label>
+                <input data-drupal-selector="edit-vorname" type="text" id="edit-vorname" name="vorname" value="" size="60" maxlength="255" class="form-text required" required="required" aria-required="true" />
+
+          </div>
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-telefonnummer form-item-telefonnummer">
+            <label for="edit-telefonnummer" class="js-form-required form-required">Telefonnummer</label>
+                <input data-drupal-selector="edit-telefonnummer" type="text" id="edit-telefonnummer" name="telefonnummer" value="" size="60" maxlength="255" class="form-text required" required="required" aria-required="true" />
+
+          </div>
+
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-e-mail form-item-e-mail">
+            <label for="edit-e-mail" class="js-form-required form-required">E-Mail</label>
+                <input data-drupal-selector="edit-e-mail" type="text" id="edit-e-mail" name="e_mail" value="" size="60" maxlength="255" class="form-text required" required="required" aria-required="true" />
+
+          </div>
+<fieldset data-drupal-selector="edit-ich-bin-interessiert-an-" id="edit-ich-bin-interessiert-an---wrapper" class="radios--wrapper fieldgroup form-composite webform-composite-visible-title required js-webform-type-radios webform-type-radios js-form-item form-item js-form-wrapper form-wrapper" aria-required="true" role="radiogroup" aria-labelledby="edit-ich-bin-interessiert-an---wrapper-legend">
+      <legend id="edit-ich-bin-interessiert-an---wrapper-legend">
+    <span class="fieldset-legend js-form-required form-required">Ich bin interessiert an:</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-ich-bin-interessiert-an-" class="js-webform-radios webform-options-display-one-column form-radios">
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-ich-bin-interessiert-an- form-item-ich-bin-interessiert-an-">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="radio-wrapper">
+  <input data-drupal-selector="edit-ich-bin-interessiert-an-1-zimmer-wohnung" type="radio" id="edit-ich-bin-interessiert-an-1-zimmer-wohnung" name="ich_bin_interessiert_an_" value="1½-Zimmer-Wohnung" class="form-radio" /> <i></i>
+</span>
+
+        <label for="edit-ich-bin-interessiert-an-1-zimmer-wohnung" class="option">1½-Zimmer-Wohnung</label>
+      </div>
+          </div>
+
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-ich-bin-interessiert-an- form-item-ich-bin-interessiert-an-">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="radio-wrapper">
+  <input data-drupal-selector="edit-ich-bin-interessiert-an-2-zimmer-wohnung" type="radio" id="edit-ich-bin-interessiert-an-2-zimmer-wohnung" name="ich_bin_interessiert_an_" value="2½-Zimmer-Wohnung" class="form-radio" /> <i></i>
+</span>
+
+        <label for="edit-ich-bin-interessiert-an-2-zimmer-wohnung" class="option">2½-Zimmer-Wohnung</label>
+      </div>
+          </div>
+
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-ich-bin-interessiert-an- form-item-ich-bin-interessiert-an-">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="radio-wrapper">
+  <input data-drupal-selector="edit-ich-bin-interessiert-an-3-zimmer-wohnung" type="radio" id="edit-ich-bin-interessiert-an-3-zimmer-wohnung" name="ich_bin_interessiert_an_" value="3½-Zimmer-Wohnung" class="form-radio" /> <i></i>
+</span>
+
+        <label for="edit-ich-bin-interessiert-an-3-zimmer-wohnung" class="option">3½-Zimmer-Wohnung</label>
+      </div>
+          </div>
+
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-ich-bin-interessiert-an- form-item-ich-bin-interessiert-an-">
+                        <div class="checkradio-content checkradio-content--after">
+        <span class="radio-wrapper">
+  <input data-drupal-selector="edit-ich-bin-interessiert-an-4-zimmer-wohnung" type="radio" id="edit-ich-bin-interessiert-an-4-zimmer-wohnung" name="ich_bin_interessiert_an_" value="4½-Zimmer-Wohnung" class="form-radio" /> <i></i>
+</span>
+
+        <label for="edit-ich-bin-interessiert-an-4-zimmer-wohnung" class="option">4½-Zimmer-Wohnung</label>
+      </div>
+          </div>
+</div>
+
+          </div>
+</fieldset>
+
+<div class="js-form-item form-item js-form-type-textarea form-type-textarea js-form-item-bemerkung form-item-bemerkung">
+            <label for="edit-bemerkung">Bemerkung</label>
+                <div class="form-textarea-wrapper">
+  <textarea data-drupal-selector="edit-bemerkung" id="edit-bemerkung" name="bemerkung" rows="5" cols="60" class="form-textarea resize-vertical"></textarea>
+</div>
+
+          </div>
+<input data-drupal-selector="edit-simple-recaptcha-token" type="hidden" name="simple_recaptcha_token" value="" />
+<input data-drupal-selector="edit-simple-recaptcha-type" type="hidden" name="simple_recaptcha_type" value="v3" />
+<input data-drupal-selector="edit-simple-recaptcha-score" type="hidden" name="simple_recaptcha_score" value="70" />
+<input data-drupal-selector="edit-simple-recaptcha-message" type="hidden" name="simple_recaptcha_message" value="" />
+<input autocomplete="off" data-drupal-selector="form-w-uykop-no7xhvz3kkymt4udbey3s1ic-bill2vie-m" type="hidden" name="form_build_id" value="form-w_UyKOP-No7xhVz3kKymt4Udbey3S1ic_BIll2ViE_M" />
+<input data-drupal-selector="edit-webform-submission-move23-paragraph-1362-add-form" type="hidden" name="form_id" value="webform_submission_move23_paragraph_1362_add_form" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><div id="webform_submission_move23_paragraph_1362_add_form-captcha" class="recaptcha-v3 recaptcha-v3-wrapper js-form-wrapper form-wrapper" data-drupal-selector="edit-captcha"></div>
+<input class="webform-button--submit button button--primary js-form-submit form-submit" data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Absenden" />
+
+</div>
+<div class="url-textfield js-form-wrapper form-wrapper" style="display: none !important;">
+<div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-url form-item-url">
+            <label for="edit-url">Leave this field blank</label>
+                <input autocomplete="off" data-drupal-selector="edit-url" type="text" id="edit-url" name="url" value="" size="20" maxlength="128" class="form-text" />
+
+          </div>
+</div>
+
+
+  
+</form>
+</div>
+      
+      </div>
+</div>
+              <div class="bg-default field__item">
+<div  class="text">
+          
+                          <h2  >
+      SCHRITT FÜR SCHRITT ZUM ZIEL.</h2>
+      
+  
+
+    
+                  <p>Ein Bauvorhaben wie unser neues Autohaus braucht Zeit. Viel Zeit. Hier dokumentieren wir die wichtigsten Schritte in Bildern. Nehmen Sie einen Augenschein.</p>
+
+      
+  
+
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Move2023-1" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/huawei_img_20200702_1.jpg?h=6eb229a4" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Move2023-2" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/img_8486_0.jpg?h=06ac0d8c" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Move2023-3" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/spatenstich_binelli_1743.jpg?h=3fcaec90" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-4" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/img_20200713_153150.jpg?h=67eabc4d" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-9" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/img_9483.jpg?h=e5aec6c8" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-6" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/p1011151.jpg?h=d1cb525d" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-7" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/img_9338.jpg?h=e5aec6c8" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move-8" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/p1011091.jpg?h=d1cb525d" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Mover23-9" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-mover23-juli-1.jpg?h=707772c7" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move23-10" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-mover23-juli-3.jpg?h=707772c7" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move23-11" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-mover23-juli-4.jpg?h=707772c7" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="Binelli-Move23-12" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-07/binelli-mover23-juli-2.jpg?h=707772c7" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="binelligroup-move-1-9-21-2" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-09/binelligroup-move-1-9-21-04.jpg?h=a70c8bca" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="binelligroup-move-1-9-21" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-09/binelligroup-move-1-9-21.jpg?h=67eabc4d" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="binelligroup-move-1-9-21-3" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-09/binelligroup-move-1-9-21-03.jpg?h=67eabc4d" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="binelligroup-move-1-9-21-4" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-09/binelligroup-move-1-9-21-02.jpg?h=2f83cd36" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="two-col-wrap container">
+      
+<div  class="content">
+          
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="BinelliGroup-Baustelle-Oktober21" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-10/binelligroup-baustelle-oktober-13-2.jpg?h=fbf4b26c" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+    
+                    <div class="paragraph paragraph--type--media paragraph--view-mode--_-col">
+          
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-_-col">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">  <img src="/themes/custom/bmw_base/dist/images/grey-solid-color-background.jpg" width="890" height="500" alt="BinelliGroup-Baustelle-Oktober21-2" loading="lazy" data-src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/two_column_img/public/2021-10/binelligroup-baustelle-oktober-13-3.jpg?h=fbf4b26c" class="image-style-two-column-img" />
+
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+      </div>
+
+      
+  
+
+
+  </div>
+
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="media-paragraph container">
+      
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-image media--view-mode-media">
+  
+      
+  <div class="field field--name-field-media-image field--type-image field--label-visually_hidden">
+    <div class="field__label visually-hidden">Image</div>
+              <div class="field__item">    <picture>
+                <!--[if IE 9]><video style="display: none;"><![endif]-->
+              <source media="(min-width: 1366px)" type="image/jpeg" data-srcset="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/1442x720px/public/2021-10/binelligroup-baustelle-oktober-13-1jpg.jpg?h=fbf4b26c 1x"/>
+              <source type="image/jpeg" data-srcset="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/1200x650/public/2021-10/binelligroup-baustelle-oktober-13-1jpg.jpg?h=fbf4b26c 1x"/>
+            <!--[if IE 9]></video><![endif]-->
+            <img src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/styles/1442x720px/public/2021-10/binelligroup-baustelle-oktober-13-1jpg.jpg?h=fbf4b26c" alt="BinelliGroup-Baustelle-Oktober21-3" />
+
+  </picture>
+
+</div>
+          </div>
+
+  </article>
+</div>
+      
+  </div>
+
+
+</div>
+              <div class="bg-default field__item">
+<div  class="media-paragraph container">
+          
+                          <h2  >
+      RÜCKBLICK.</h2>
+      
+  
+
+
+            <div class="field field--name-field-media-single field--type-entity-reference field--label-hidden field__item"><article class="media media--type-video media--view-mode-media">
+  
+      
+            <div class="field field--name-field-media-video-embed-field field--type-video-embed-field field--label-hidden field__item"><div data-video-embed-field-lazy="&lt;div class=&quot;video-embed-field-provider-youtube video-embed-field-responsive-video&quot;&gt;&lt;iframe width=&quot;854&quot; height=&quot;480&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;allowfullscreen&quot; src=&quot;https://www.youtube.com/embed/s21cbJjCIQs?autoplay=1&amp;amp;start=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;controls=1&amp;amp;rel=0&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+" class="video-embed-field-lazy"><img src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/2020-04/bildschirmfoto_2020-04-07_um_15.59.11.png" alt="apero" title="" />
+<div class="video-embed-field-lazy-play"></div>
+</div>
+</div>
+      
+  </article>
+</div>
+      
+            <div class="clearfix text-formatted field field--name-field-text-formatted-long field--type-text-long field--label-hidden field__item"><p>Binelli Group Zürich nimmt Abschied vom rund 100-jährigen Werkstattgebäude und feiert den Start einer neuen aufregenden Ära.</p>
+</div>
+      
+  </div>
+
+
+</div>
+          </div>
+  
+    </div>
+  </div>
+
+
+  </div>
+
+    </div>
+    
+    
+  </main>
+
+            <footer id="footer" role="contentinfo" style="background-color: #000000">
+          <div class="region region-footer">
+    <div id="block-bmw-landingpage-addressblock" class="block block-bmw-dealer-dashboard block-address-block">
+  
+    
+      <div class="address-block">
+
+    
+
+    
+    
+
+                        <div class="address-wrap">
+                <p class="address-field name">Binelli Group</p>
+                <p class="address-field street"></p>
+                <p class="address-field city"></p>
+                                    <p class="address-field phone">+41 58 270 77 00</p>
+                                                    <p class="address-field mail"><a href="mailto:info@binelli-group.ch">info@binelli-group.ch</a></p>
+                            </div>
+            </div>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-bmw-landingpage-footer-menu" id="block-bmw-landingpage-footer" class="block block-menu navigation menu--footer">
+  
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/de/impressum" data-drupal-link-system-path="node/9">Impressum</a>
+              </li>
+                <li class="menu-item">
+        <a href="/de/rechtliche-hinweise" data-drupal-link-system-path="node/8">Rechtlicher Hinweis</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-bmw-landingpage-sociallinksblock" class="block block-bmw-dealer-dashboard block-social-links-block">
+  
+    
+      <div class="social-links-block">
+
+  
+
+  
+  
+
+      
+      <p>Visit us at</p>
+
+                        <a href="https://www.facebook.com/BinelliGroupBMW/" class="facebook"></a>
+                                <a href="https://www.youtube.com/channel/UCTIvlUZ44eNadqY-r3Y3G6w" class="youtube"></a>
+                                <a href="https://www.linkedin.com/company/binelli-group/" class="linkedin"></a>
+                                <a href="https://www.instagram.com/binelli_group_bmw/" class="instagram"></a>
+              
+      </div>
+
+  </div>
+<div class="scrollToTop block block-bmw-dealer-dashboard block-scroll-to-top-block" style="background-color: #000000" id="block-bmw-landingpage-scrolltotop">
+  
+    
+      
+  </div>
+
+  </div>
+
+      </footer>
+      
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"de\/","currentPath":"node\/660","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"de"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"bmw_base\/base,bmw_dealer_base\/phone-number-parser,bmw_dealer_dashboard\/script,bmw_dealer_stage_presentation\/script,bmw_landingpage\/global,classy\/base,classy\/messages,core\/normalize,core\/picturefill,eu_cookie_compliance\/eu_cookie_compliance_default,extlink\/drupal.extlink,fontawesome\/fontawesome.svg,fontawesome\/fontawesome.svg.shim,layout_discovery\/onecol,paragraphs\/drupal.paragraphs.unpublished,simple_recaptcha\/simple_recaptcha_v3,system\/base,video_embed_field\/lazy-load,video_embed_field\/responsive-video,webform\/webform.composite,webform\/webform.element.checkboxes,webform\/webform.element.details.save,webform\/webform.element.details.toggle,webform\/webform.element.message,webform\/webform.element.options,webform\/webform.form,webform\/webform.theme.classy","theme":"bmw_landingpage","theme_token":"3pYN32MAc6PjMNYaFKdYPgjMpugkEhaM0HgsG1DRyxQ"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"linkColor":"#1c69d4","ctaColor":"#1c69d4","textColor":"#ffffff","data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extNoreferrer":false,"extFollowNoOverride":false,"extClass":"0","extLabel":"(link is external)","extImgClass":false,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"This link will take you to an external web site. We are not responsible for their content.","mailtoClass":"0","mailtoLabel":"(link sends email)","extUseFontAwesome":false,"extIconPlacement":"append","extFaLinkClasses":"fa fa-external-link","extFaMailtoClasses":"fa fa-envelope-o","whitelistedDomains":null}},"field_group":{"html_element":{"mode":"landingpage","context":"view","settings":{"element":"div","show_label":false,"label_element":"h3","attributes":"","effect":"none","speed":"fast","id":"","classes":"slider-text","label":"Wrapper anchor","label_element_classes":""}}},"simple_recaptcha_v3":{"sitekey":"6Lc_DMMZAAAAAKmeyZK_8-oGVMHFOEoVqc4G8NGe","forms":{"webform_submission_move23_paragraph_1362_add_form":{"form_id":"webform_submission_move23_paragraph_1362_add_form","score":"70","error_message":"There was an error during validation of your form submission, please try to reload the page and submit form again.","action":"move23"}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":false,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EBy clicking any link on this page you are giving your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n    \u003C\/div\u003E\n\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EAkzeptieren\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/hidden","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"de","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EPrivacy settings\u003C\/button\u003E\n\u003Cdiv role=\u0022alertdialog\u0022 aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Ch2\u003EWe use cookies on this site to enhance your user experience\u003C\/h2\u003E\n\u003Cp\u003EYou have given your consent for us to set cookies.\u003C\/p\u003E\n\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWithdraw consent\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"containing_element":"body","settings_tab_enabled":false},"user":{"uid":0,"permissionsHash":"ec8af7832ab93993bb226c8d9deb758d9cc018defcaca3559fedb22d2a0d409b"}}</script>
+<script src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/js/js_dhiFyh_jtuwC1VGgTEeclsSrnLcXceE7TBsRpyXklAw.js"></script>
+<script src="https://www.google.com/recaptcha/api.js?render=6Lc_DMMZAAAAAKmeyZK_8-oGVMHFOEoVqc4G8NGe" defer async></script>
+<script src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/js/js_p7Bcq0OkpsGaryQnETNMYsntY_j4vceF1JSBrQqwP3M.js"></script>
+<script src="/modules/custom/bmw_dealer_base/js/phone-number-parser.js?v=1.x"></script>
+<script src="/sites/landingpage.bmw.ch.hosting.brightsolutions.de.binelli-gruppe/files/js/js_PM96cHr3nuLpZdf6U0e0EH8deAwRmYS8nsK71l9eyKI.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.js?v=1.9" defer></script>
+
+    <script type="text/javascript">_satellite.pageBottom();</script>
+    <script type="text/javascript">_satellite.track('page_load');</script>
+  </body>
+</html>
