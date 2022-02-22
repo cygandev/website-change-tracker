@@ -7,7 +7,6 @@ from utils.handle_content import (
 )
 from utils.send_mail import send_mail
 
-# "https://www.binelli-group.ch/de/move2023#wohnung"
 URL = os.environ.get("URL")
 FILE_PATH = os.environ.get("FILE_PATH", "./website_content.txt")
 
