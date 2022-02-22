@@ -1,1 +1,1 @@
-*/30 * * * * python /main.py >> /logfile
+0 8-18 * * * python /main.py >> /logfile
