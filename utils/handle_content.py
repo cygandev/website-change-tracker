@@ -1,3 +1,5 @@
+from urllib.parse import urlparse
+
 import requests
 from requests_ip_rotator import ApiGateway
 
@@ -35,10 +37,18 @@ def request_page_content_hide_ip(
     Returns:
         str: text content of webpage
     """
-    with ApiGateway(url, regions=aws_regions) as g:
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
+        AppleWebKit/537.36 (KHTML, like Gecko) \
+        Chrome/92.0.4515.107 Safari/537.36"
+    }
+    url_schema = urlparse(url).scheme
+    url_home = urlparse(url).netloc
+    url_base = f"{url_schema}://{url_home}"
+    with ApiGateway(url_base, regions=aws_regions) as g:
         session = requests.Session()
-        session.mount(url, g)
-        response = session.get(url)
+        session.mount(url_base, g)
+        response = session.get(url, headers=headers)
         return response.text
 
 
