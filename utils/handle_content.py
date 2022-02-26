@@ -1,6 +1,7 @@
 import requests
 from requests_ip_rotator import ApiGateway
 
+
 def request_page_content(url: str) -> str:
     """Makes request to an url and returns its content
 
@@ -19,7 +20,10 @@ def request_page_content(url: str) -> str:
         page_content = r.text
     return page_content
 
-def request_page_content_hide_ip(url: str, aws_regions: list = ["eu-central-1"]) -> str:
+
+def request_page_content_hide_ip(
+    url: str, aws_regions: list = ["eu-central-1"]
+) -> str:
     """Makes request to an url and returns its content.
         Uses AWS API Gateway as proxy, resulting in different IP each request.
         Requires AWS_SECRET_ACCESS_KEY and AWS_ACCESS_KEY_ID as ENV variables.
@@ -36,6 +40,7 @@ def request_page_content_hide_ip(url: str, aws_regions: list = ["eu-central-1"])
         session.mount(url, g)
         response = session.get(url)
         return response.text
+
 
 def write_page_content(file_path: str, page_content: str) -> None:
     """Writes text to a file.

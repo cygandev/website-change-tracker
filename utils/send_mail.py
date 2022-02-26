@@ -29,14 +29,14 @@ def send_mail(
     Returns:
         None: None
     """
-    msg = MIMEMultipart('alternative')
+    msg = MIMEMultipart("alternative")
     msg["Subject"] = message_subject
     msg["From"] = email_sender
     msg["To"] = email_receiver
     email_receiver_list = email_receiver.replace(" ", "").split(",")
 
-    content_plain = MIMEText(message_content_plain, 'plain')
-    content_html = MIMEText(message_content_html, 'html')
+    content_plain = MIMEText(message_content_plain, "plain")
+    content_html = MIMEText(message_content_html, "html")
 
     msg.attach(content_plain)
     msg.attach(content_html)
@@ -47,6 +47,6 @@ def send_mail(
         "smtp.gmail.com", host_ssl_port, context=context
     ) as server:
         server.login(host_email_adr, host_email_pw)
-        server.sendmail(email_sender,email_receiver_list,msg.as_string())
+        server.sendmail(email_sender, email_receiver_list, msg.as_string())
     print("INFO: email sent")
     return None

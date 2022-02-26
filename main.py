@@ -9,8 +9,12 @@ from utils.handle_content import (
 from utils.send_mail import send_mail
 
 URL = os.environ.get("URL")
-WEBPAGE_CONTENT_PATH = os.environ.get("WEBPAGE_CONTENT_PATH", "./files/website_content.txt")
-HTML_MESSAGE_PATH = os.environ.get("HTML_MESSAGE_PATH", "./files/msg_content.html")
+WEBPAGE_CONTENT_PATH = os.environ.get(
+    "WEBPAGE_CONTENT_PATH", "./files/website_content.txt"
+)
+HTML_MESSAGE_PATH = os.environ.get(
+    "HTML_MESSAGE_PATH", "./files/msg_content.html"
+)
 
 GMAIL_ADR = os.environ.get("EMAIL")
 GMAIL_PW = os.environ.get("PW_GMAIL")
@@ -30,7 +34,7 @@ if __name__ == "__main__":
             msg_subject = "ALERT - WEBSITE CHANGE DETECTED"
             msg_content_plain = f"A change on the webpage {URL} was detected \
             please visit page."
-            with open(HTML_MESSAGE_PATH, 'r') as f:
+            with open(HTML_MESSAGE_PATH, "r") as f:
                 msg_content_html = f.read().format(OBSERVED_URL=URL)
 
             send_mail(
