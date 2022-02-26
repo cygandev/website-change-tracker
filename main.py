@@ -3,6 +3,7 @@ import os
 from utils.handle_content import (
     read_page_content,
     request_page_content,
+    request_page_content_hide_ip,
     write_page_content,
 )
 from utils.send_mail import send_mail
@@ -19,7 +20,8 @@ EMAIL_SENDER = os.environ.get("EMAIL_SENDER", GMAIL_ADR)
 EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER", GMAIL_ADR)
 
 if __name__ == "__main__":
-    new_page_content = request_page_content(URL)
+    # new_page_content = request_page_content(URL)
+    new_page_content = request_page_content_hide_ip(URL)
     try:
         old_page_content = read_page_content(WEBPAGE_CONTENT_PATH)
         if old_page_content == new_page_content:

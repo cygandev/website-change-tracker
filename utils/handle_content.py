@@ -1,7 +1,15 @@
 import requests
-
+from requests_ip_rotator import ApiGateway
 
 def request_page_content(url: str) -> str:
+    """Makes request to an url and returns its content
+
+    Args:
+        url (str): url of webpage
+
+    Returns:
+        str: text content of webpage
+    """
     headers = {
         "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
         AppleWebKit/537.36 (KHTML, like Gecko) \
@@ -11,14 +19,48 @@ def request_page_content(url: str) -> str:
         page_content = r.text
     return page_content
 
+def request_page_content_hide_ip(url: str, aws_regions: list = ["eu-central-1"]) -> str:
+    """Makes request to an url and returns its content.
+        Uses AWS API Gateway as proxy, resulting in different IP each request.
+        Requires AWS_SECRET_ACCESS_KEY and AWS_ACCESS_KEY_ID as ENV variables.
+
+    Args:
+        url (str): url of webpage
+        aws_regions (list, optional): AWS region to use for IP pool. Defaults to ["eu-central-1"].
+
+    Returns:
+        str: text content of webpage
+    """
+    with ApiGateway(url, regions=aws_regions) as g:
+        session = requests.Session()
+        session.mount(url, g)
+        response = session.get(url)
+        return response.text
 
 def write_page_content(file_path: str, page_content: str) -> None:
+    """Writes text to a file.
+
+    Args:
+        file_path (str): file path
+        page_content (str): text to be written to file
+
+    Returns:
+        _type_: _description_
+    """
     with open(file_path, "w") as f:
         f.write(page_content)
         return None
 
 
 def read_page_content(file_path: str) -> None:
+    """Returns content of a file
+
+    Args:
+        file_path (str): file path
+
+    Returns:
+        _type_: content of file as text
+    """
     with open(file_path, "r") as f:
         content = f.read()
         return content
