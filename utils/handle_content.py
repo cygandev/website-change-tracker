@@ -4,27 +4,23 @@ import requests
 from requests_ip_rotator import ApiGateway
 
 
-def request_page_content(url: str) -> str:
+def request_page_content(url: str, headers: dict) -> str:
     """Makes request to an url and returns its content
 
     Args:
         url (str): url of webpage
+        headers (dict): request header
 
     Returns:
         str: text content of webpage
     """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
-        AppleWebKit/537.36 (KHTML, like Gecko) \
-        Chrome/92.0.4515.107 Safari/537.36"
-    }
     with requests.get(url, headers=headers) as r:
         page_content = r.text
     return page_content
 
 
 def request_page_content_hide_ip(
-    url: str, aws_regions: list = ["eu-central-1"]
+    url: str, headers: dict, aws_regions: list = ["eu-central-1"]
 ) -> str:
     """Makes request to an url and returns its content.
         Uses AWS API Gateway as proxy, resulting in different IP each request.
@@ -32,16 +28,13 @@ def request_page_content_hide_ip(
 
     Args:
         url (str): url of webpage
+        headers (dict): request header
         aws_regions (list, optional): AWS region to use for IP pool. Defaults to ["eu-central-1"].
 
     Returns:
         str: text content of webpage
     """
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
-        AppleWebKit/537.36 (KHTML, like Gecko) \
-        Chrome/92.0.4515.107 Safari/537.36"
-    }
+
     url_schema = urlparse(url).scheme
     url_home = urlparse(url).netloc
     url_base = f"{url_schema}://{url_home}"

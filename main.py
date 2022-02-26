@@ -23,9 +23,17 @@ SMTP_SERVER = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
 EMAIL_SENDER = os.environ.get("EMAIL_SENDER", GMAIL_ADR)
 EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER", GMAIL_ADR)
 
+request_headers = {
+    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
+        AppleWebKit/537.36 (KHTML, like Gecko) \
+        Chrome/92.0.4515.107 Safari/537.36"
+}
+
 if __name__ == "__main__":
-    # new_page_content = request_page_content(URL)
-    new_page_content = request_page_content_hide_ip(URL)
+    # new_page_content = request_page_content(URL, headers=request_headers)
+    new_page_content = request_page_content_hide_ip(
+        URL, headers=request_headers
+    )
     try:
         old_page_content = read_page_content(WEBPAGE_CONTENT_PATH)
         if old_page_content == new_page_content:
