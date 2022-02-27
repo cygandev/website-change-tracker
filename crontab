@@ -1,1 +1,1 @@
-0 8-18 * * * cd / && python3 /main.py >> /logfile
+0 8-18 * * 1-6 cd / && python3 /main.py >> /logfile
