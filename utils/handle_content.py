@@ -15,6 +15,7 @@ def request_page_content(url: str, headers: dict) -> str:
         str: text content of webpage
     """
     with requests.get(url, headers=headers) as r:
+        r.raise_for_status()
         page_content = r.text
     return page_content
 
@@ -42,6 +43,7 @@ def request_page_content_hide_ip(
         session = requests.Session()
         session.mount(url_base, g)
         response = session.get(url, headers=headers)
+        response.raise_for_status()
         return response.text
 
 
