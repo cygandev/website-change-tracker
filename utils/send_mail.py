@@ -20,10 +20,11 @@ def send_mail(
     Args:
         host_email_adr (str): email address of host used to send mails
         host_email_pw (str): password of host email address
-        email_sender (str): receiver email address
-        email_receiver (str): sender email address. For multiple receipients use "email1@gm.com, email2@gmail.com"
+        email_sender (str):  sender email address
+        email_receiver (str): receiver email address. For multiple receipients use "email1@gm.com, email2@gmail.com"
         message_subject (str): message header
-        message_content (str): message body
+        message_content_plain (str): message body as plain text
+        message_content_plain (str): message body as html 
         host_ssl_port (int, optional): ssl port of host. Defaults to 465.
 
     Returns:
