@@ -24,7 +24,7 @@ def send_mail(
         email_receiver (str): receiver email address. For multiple receipients use "email1@gm.com, email2@gmail.com"
         message_subject (str): message header
         message_content_plain (str): message body as plain text
-        message_content_plain (str): message body as html 
+        message_content_html (str): message body as html 
         host_ssl_port (int, optional): ssl port of host. Defaults to 465.
 
     Returns:
