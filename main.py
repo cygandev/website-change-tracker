@@ -18,10 +18,11 @@ HTML_MESSAGE_PATH = os.environ.get(
 
 GMAIL_ADR = os.environ.get("EMAIL")
 GMAIL_PW = os.environ.get("PW_GMAIL")
-PORT = os.environ.get("SSL_PORT", 465)
+PORT = int(os.environ.get("SSL_PORT", 465))
 SMTP_SERVER = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
 EMAIL_SENDER = os.environ.get("EMAIL_SENDER", GMAIL_ADR)
 EMAIL_RECEIVER = os.environ.get("EMAIL_RECEIVER", GMAIL_ADR)
+USE_PROXY = int(os.environ.get("USE_PROXY", 0))
 
 request_headers = {
     "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) \
@@ -30,10 +31,12 @@ request_headers = {
 }
 
 if __name__ == "__main__":
-    # new_page_content = request_page_content(URL, headers=request_headers)
-    new_page_content = request_page_content_hide_ip(
-        URL, headers=request_headers
-    )
+    if USE_PROXY:
+        new_page_content = request_page_content_hide_ip(
+            URL, headers=request_headers
+        )
+    else:
+        new_page_content = request_page_content(URL, headers=request_headers)
     try:
         old_page_content = read_page_content(WEBPAGE_CONTENT_PATH)
         if old_page_content == new_page_content:
