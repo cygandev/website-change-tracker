@@ -2,3 +2,4 @@ env_file
 website_content.txt
 venv
 __pycache__
+env_setter_testing
