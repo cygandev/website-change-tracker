@@ -36,7 +36,9 @@ if __name__ == "__main__":
             URL, headers=request_headers
         )
     else:
-        new_page_content = request_page_content(URL, headers=request_headers)
+        new_page_content = request_page_content(
+            URL, headers=request_headers
+        )
     try:
         old_page_content = read_page_content(WEBPAGE_CONTENT_PATH)
         if old_page_content == new_page_content:
