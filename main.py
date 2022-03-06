@@ -1,4 +1,5 @@
 import os
+from datetime import datetime
 
 from utils.handle_content import (
     read_page_content,
@@ -30,7 +31,9 @@ request_headers = {
         Chrome/92.0.4515.107 Safari/537.36"
 }
 
+
 if __name__ == "__main__":
+    now = datetime.now()
     if USE_PROXY:
         new_page_content = request_page_content_hide_ip(
             URL, headers=request_headers
@@ -42,9 +45,9 @@ if __name__ == "__main__":
     try:
         old_page_content = read_page_content(WEBPAGE_CONTENT_PATH)
         if old_page_content == new_page_content:
-            print("INFO: Webpage scraped, no changes detected")
+            print(f"{now}: Webpage scraped, no changes detected")
         else:
-            msg_subject = "ALERT - WEBSITE CHANGE DETECTED"
+            msg_subject = "INFO - WEBSITE CHANGE DETECTED"
             msg_content_plain = f"A change on the webpage {URL} was detected \
             please visit page."
             with open(HTML_MESSAGE_PATH, "r") as f:
@@ -59,9 +62,9 @@ if __name__ == "__main__":
                 message_content_plain=msg_content_plain,
                 message_content_html=msg_content_html,
             )
-            print(f"INFO: Change detected, email to {EMAIL_RECEIVER} sent...")
+            print(f"{now}: Change detected, email to {EMAIL_RECEIVER} sent...")
     except FileNotFoundError:
-        print("INFO: No file found, initiating...")
+        print(f"{now}: No file found, initiating...")
     finally:
         write_page_content(WEBPAGE_CONTENT_PATH, new_page_content)
-        print("INFO: Successfully Written new page content to disk")
+        print(f"{now}: Successfully Written new page content to disk")
